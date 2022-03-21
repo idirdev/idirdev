@@ -1,4 +1,4 @@
-# Idir — Software Engineer
+# Idir | Software Engineer
 
 I build interactive products and systems across web, AI, real-time and game tech.
 
