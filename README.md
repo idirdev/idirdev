@@ -27,18 +27,22 @@ I care about product thinking, clean architecture, performance, developer experi
 - Product engineering
 - System design
 
+## Flagship areas
+
+- Full-stack products
+- Backend and platform systems
+- AI workflows
+- Real-time collaboration and analytics
+- Match integrity and telemetry systems
+
 ## Selected projects
 
-- **[collab-engine](https://github.com/idirdev/collab-engine)** — Real-time collaborative editing engine with CRDT and Operational Transformation
-- **[llm-api-playground](https://github.com/idirdev/llm-api-playground)** — Interactive playground for testing and comparing LLM APIs
+- **[opsboard](https://github.com/idirdev/opsboard)** — Full-stack operations dashboard with auth, RBAC, real-time monitoring, and admin tools
+- **[auth-audit-api](https://github.com/idirdev/auth-audit-api)** — Production-grade authentication and audit logging API with JWT, RBAC, and webhooks
+- **[agentflow](https://github.com/idirdev/agentflow)** — AI agent workflow orchestration engine with multi-model support and cost tracking
+- **[collab-engine](https://github.com/idirdev/collab-engine)** — Real-time collaborative editing engine with CRDT, OT, and presence
 - **[realtime-analytics-engine](https://github.com/idirdev/realtime-analytics-engine)** — Event processing pipeline with time-window aggregation and alerting
-- **[type-safe-api](https://github.com/idirdev/type-safe-api)** — End-to-end type-safe API framework with automatic OpenAPI generation
-- **[virtual-dom-engine](https://github.com/idirdev/virtual-dom-engine)** — Virtual DOM implementation from scratch with diffing and patching
-- **[email-template-builder](https://github.com/idirdev/email-template-builder)** — React-based email template builder compatible with all major clients
-
-## Current direction
-
-I'm focused on building production-grade products and systems that combine strong engineering, practical AI integration and polished user experience.
+- **[match-integrity-dashboard](https://github.com/idirdev/match-integrity-dashboard)** — Game match integrity analytics with anomaly detection and fairness scoring
 
 ## Contact
 
