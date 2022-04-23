@@ -10,9 +10,9 @@
 
 <!-- QUICK LINKS -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-idirdev.com-2DD4A8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://idirdev.com)
-[![3D CV](https://img.shields.io/badge/🎮_3D_Interactive_CV-Experience_It-A78BFA?style=for-the-badge)](https://idirdev.com/#cv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idirdev)
-[![Twitter](https://img.shields.io/badge/𝕏-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/idirdev)
+[![3D CV](https://img.shields.io/badge/3D_Interactive_CV-Experience_It-A78BFA?style=for-the-badge&logo=threedotjs&logoColor=white)](https://idirdev.com/#cv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idir-neggazi-485703271/)
+[![Twitter](https://img.shields.io/badge/𝕏-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/idirdeveloper)
 
 </div>
 
@@ -44,7 +44,7 @@ My portfolio features a **3D walkable CV** built with Three.js — because a PDF
 ---
 
 <!-- TECH STACK -->
-## ⚡ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -73,14 +73,14 @@ My portfolio features a **3D walkable CV** built with Three.js — because a PDF
 ---
 
 <!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ ELIGIBLED
+### ELIGIBLED
 **Social Gaming Platform**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -94,7 +94,7 @@ TIMA ID · TIMA Shield · TIMA Creator — Identity verification, match integrit
 </td>
 <td width="50%" valign="top">
 
-### 🎮 No Shortcuts Studio
+### No Shortcuts Studio
 **Gaming Ecosystem**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/i18n-blue?style=flat-square"/>
@@ -110,7 +110,7 @@ A full gaming brand: studio hub, game pages, and community — all self-hosted o
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 3D Interactive CV
+### 3D Interactive CV
 **Walkable Portfolio Experience**
 
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/> <img src="https://img.shields.io/badge/PointerLock_API-blue?style=flat-square"/>
@@ -124,7 +124,7 @@ Walk through my office and garden in 3D. Explore repos as objects, click furnitu
 </td>
 <td width="50%" valign="top">
 
-### 🔫 Project Elysia
+### Project Elysia
 **FPS Game Universe**
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Game_Design-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Lore-amber?style=flat-square"/>
@@ -143,7 +143,7 @@ An ambitious competitive FPS project with deep lore, unique mechanics, and a vis
 ---
 
 <!-- OPEN SOURCE HIGHLIGHTS -->
-## 📦 Open Source Highlights
+## Open Source Highlights
 
 <div align="center">
 
@@ -168,7 +168,7 @@ An ambitious competitive FPS project with deep lore, unique mechanics, and a vis
 ---
 
 <!-- STATS -->
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -179,19 +179,8 @@ An ambitious competitive FPS project with deep lore, unique mechanics, and a vis
 
 <div align="center">
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=idirdev&theme=react-dark&bg_color=0d1117&color=2DD4A8&line=2DD4A8&point=F59E0B&area=true&area_color=2DD4A8&hide_border=false&custom_title=Contribution%20Graph" width="95%" />
-</div>
 
----
-
-<!-- SNAKE -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idirdev/idirdev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idirdev/idirdev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/idirdev/idirdev/output/github-snake-dark.svg" />
-</picture>
+[![Idir's github activity graph](https://ghchart.rber.tv/2DD4A8/idirdev)](https://github.com/idirdev)
 
 </div>
 
@@ -200,7 +189,7 @@ An ambitious competitive FPS project with deep lore, unique mechanics, and a vis
 <!-- FOOTER -->
 <div align="center">
 
-### 💬 Let's Connect
+### Let's Connect
 
 <p>
 <a href="mailto:contact@eligibled.com"><img src="https://img.shields.io/badge/Email-contact@eligibled.com-2DD4A8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
