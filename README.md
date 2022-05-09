@@ -180,7 +180,9 @@ An ambitious competitive FPS project with deep lore, unique mechanics, and a vis
 <div align="center">
 <br/>
 
-[![Idir's github activity graph](https://ghchart.rber.tv/2DD4A8/idirdev)](https://github.com/idirdev)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=idirdev&theme=react-dark&bg_color=0d1117&color=2DD4A8&line=2DD4A8&point=F59E0B&area=true&area_color=2DD4A8&hide_border=false&custom_title=Contribution%20Graph" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idirdev&theme=github_dark" width="95%" />
 
 </div>
 
