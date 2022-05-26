@@ -194,17 +194,17 @@ An ambitious competitive FPS project with deep lore, unique mechanics, and a vis
 ### Let's Connect
 
 <p>
-<a href="mailto:contact@eligibled.com"><img src="https://img.shields.io/badge/Email-contact@eligibled.com-2DD4A8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:idirneggazi.pro@icloud.com"><img src="https://img.shields.io/badge/Email-idirneggazi.pro@icloud.com-2DD4A8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br/>
 
 ```
-  ╔══════════════════════════════════════════════════╗
-  ║                                                  ║
-  ║   "No shortcuts — just craft, code, and vision." ║
-  ║                                                  ║
-  ╚══════════════════════════════════════════════════╝
+  ╔═════════════════════════════════════════════════════════════════╗
+  ║                                                                 ║
+  ║  "Code is the closest thing we have to superpowers." — idirdev  ║
+  ║                                                                 ║
+  ╚═════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
